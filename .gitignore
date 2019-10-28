@@ -1,0 +1,5 @@
+*.exe
+*.doc
+Dist/
+Cardiac/Bin/
+Cardiac/Obj/
